@@ -54,7 +54,7 @@ Python, Pandas, Matplotlib, Seaborn, Datetime, Tableau, Plotly, проверка
 ### Статус проекта: завершен
 
 
-    Презентация:
+    Презентация: https://disk.yandex.ru/i/KucxOdiba2UVFw
 
     Дашборд: 
 
